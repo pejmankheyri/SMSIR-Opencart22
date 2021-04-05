@@ -6,7 +6,7 @@
   <a href="https://packagist.org/packages/pejmankheyri/smsir-opencart22"><img src="https://poser.pugx.org/pejmankheyri/smsir-opencart22/v/stable" alt="Total Downloads"></a>
 <a href="https://packagist.org/packages/pejmankheyri/smsir-opencart22"><img src="https://img.shields.io/packagist/dt/pejmankheyri/smsir-opencart22" alt="Total Downloads"></a>
   <a href="https://packagist.org/packages/pejmankheyri/smsir-opencart22"><img src="https://poser.pugx.org/pejmankheyri/smsir-opencart22/d/monthly" alt="Monthly Downloads"></a>
-<a href="https://packagist.org/packages/pejmankheyri/smsir-opencart22"><img src="https://img.shields.io/github/license/pejmankheyri/smsir-opencart22-2.2" alt="License"></a>
+<a href="https://packagist.org/packages/pejmankheyri/smsir-opencart22"><img src="https://img.shields.io/github/license/pejmankheyri/smsir-opencart22" alt="License"></a>
 </p>
 <div dir="rtl">
 
